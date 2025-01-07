@@ -37,8 +37,8 @@
         <mxCell id="MfhTrvXRpiW5T_UfHGdc-18" value="Margin (In House)&lt;div&gt;&lt;br&gt;&lt;div&gt;( ( Total Price - Total Cost ) / Total Price ) * 100&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="490" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MfhTrvXRpiW5T_UfHGdc-37" value="Same as above, except that all items are included" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="760" width="260" height="60" as="geometry" />
+        <mxCell id="MfhTrvXRpiW5T_UfHGdc-37" value="Same as above, except that all items are included&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Note:&lt;/b&gt; The currency conversion to AUD is not done. So suppose if different items have different currency, then percentage might differ ???&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="760" width="265" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
